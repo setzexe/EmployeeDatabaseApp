@@ -1,0 +1,6 @@
+Name: Nick. Pin: 1288. Position: Data Manager. Wage: 26
+Name: Johnson. Pin: 9999. Position: Management. Wage: 36
+Name: InternBoy. Pin: 1999. Position: Intern. Wage: 12
+Name: Test. Pin: 2717. Position: Management. Wage: 36
+Name: NormalEmployee. Pin: 2222. Position: Programmer. Wage: 28
+Name: DeleteLater. Pin: 8838. Position: Programmer. Wage: 28
