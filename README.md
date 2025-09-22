@@ -30,4 +30,5 @@ Around 6 hours of code time
 Access folder in VSC, then bash
 
 g++ *.cpp -o EmployeeDatabase
+
 ./EmployeeDatabase
