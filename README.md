@@ -23,8 +23,7 @@ After the creation of this phase, I plan to turn it into something more suitable
 
 **Current progress**
 
-All but the `listEmployees` function & management portion of the `employeeOptions` function has been finished
-Around 6 hours of code time
+Phase 1 has been completed after around 8 hours of code time. It will be pushed to the main branch.
 
 ## How to Run
 Access folder in VSC, then bash
